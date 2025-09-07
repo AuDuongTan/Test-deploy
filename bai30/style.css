@@ -1,0 +1,15 @@
+/* div p {
+  color: blue;
+} */
+
+/* .loi_chuc p {
+  font-size: 30px;
+} */
+
+div > p {
+  background-color: yellow;
+}
+
+block p {
+  color: red;
+}

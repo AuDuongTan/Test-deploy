@@ -1,0 +1,20 @@
+p {
+  color: red;
+  font-size: 20px;
+}
+h1 {
+  color: blue;
+}
+#doan-van-2 {
+  color: green;
+  font-size: 25px;
+}
+.demo {
+  background-color: yellow;
+}
+.demo2 {
+  background-color: pink;
+}
+.item-ul-1 {
+  list-style: none;
+}

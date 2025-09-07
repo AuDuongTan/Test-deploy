@@ -1,0 +1,16 @@
+/* chon the h2 ngay sau the h1 */
+/* h1 + h2 {
+  color: red;
+} */
+
+/* .demo.demo2 + h3,
+p {
+  color: blue;
+} */
+/* ~ la chon tat ca cac the dang sau dung sau the dang truoc */
+h1 ~ h3 {
+  color: green;
+}
+div ~ div {
+  color: orange;
+}

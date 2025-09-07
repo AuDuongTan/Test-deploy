@@ -1,0 +1,11 @@
+* {
+  color: red;
+  font-size: 20px;
+}
+/* * la tac dong len toan html */
+h2.demo {
+  color: blue;
+  font-size: 30px;
+}
+/* tac dong len class demo cua h2
+con neu khong co h2. thi se tac dong len toan bo demo */
