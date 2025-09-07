@@ -1,0 +1,29 @@
+h1 {
+  /* màu chữ */
+  color: red;
+  /* kiểu chữ */
+  font-style: italic;
+  /* font chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* kích thước chữ */
+  font-size: 40px;
+  /* chuyển chữ hoa */
+  text-transform: uppercase;
+  /* căn giữa */
+  text-align: center;
+  /* liệt kê cho tôi một số css cơ bản nữa đi */
+  text-decoration: underline;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+  line-height: 1.5;
+  text-shadow: 2px 2px 5px blue;
+  /* canh lề */
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+  background-color: yellow;
+  width: 50%;
+
+  /* hiển thị */
+  display: block;
+}

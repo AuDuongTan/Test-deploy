@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/bg.jpg);
+}
+/* opacity, display none không kế thừa cho phần tử con
+visibility kế thừa cho phần tử con */
+h2 {
+  /* độ trong suốt của phần tử */
+  /* opacity: 1; */
+  /* display: none; */
+  visibility: hidden;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+span {
+  visibility: visible;
+  color: red;
+  font-weight: bold;
+}
