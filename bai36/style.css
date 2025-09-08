@@ -1,0 +1,33 @@
+/* p:first-child {
+  color: red;
+  font-size: 20px;
+} */
+/* first child phải là thằng đầu tiên, nếu có thằng khác
+chen vào sẽ bị loại, tượng tự last child */
+
+/* p:last-child {
+  color: blue;
+  font-size: 20px;
+} */
+/* 
+p:nth-child(2) {
+  color: green;
+  font-size: 20px;
+} */
+
+/* p:nth-child(even) {
+  color: orange;
+  font-size: 20px;
+} */
+/* p:nth-child(odd) {
+  color: purple;
+  font-size: 20px;
+} */
+/* p:nth-last-child(2) {
+  color: brown;
+  font-size: 20px;
+} */
+p:only-child {
+  color: pink;
+  font-size: 20px;
+}

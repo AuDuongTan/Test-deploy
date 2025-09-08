@@ -1,0 +1,21 @@
+.box {
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+}
+
+.box.box1 {
+  background-color: rgb(204, 198, 198);
+  border: 10px solid violet;
+}
+
+.box.box2 {
+  background-color: green;
+  margin-left: 160px;
+  border: 10px solid black;
+}
+.box.box3 {
+  background-color: rgb(137, 137, 212);
+  margin-left: 320px;
+  border: 10px solid red;
+}

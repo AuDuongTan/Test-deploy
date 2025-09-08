@@ -1,0 +1,22 @@
+/* p:first-child {
+  color: red;
+  font-size: 30px;
+}
+
+p:first-of-type {
+  color: blue;
+  font-size: 20px;
+}
+
+h2:last-of-type {
+  color: green;
+  font-size: 25px;
+} */
+/* p:nth-of-type(odd) {
+  color: orange;
+  font-size: 18px;
+} */
+p:only-of-type {
+  color: purple;
+  font-size: 22px;
+}
