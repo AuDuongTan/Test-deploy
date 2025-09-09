@@ -1,0 +1,8 @@
+/* body {
+  width: 650px;
+} */
+strong {
+  background-color: blue;
+  padding: 40px;
+  display: inline-block;
+}

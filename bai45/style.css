@@ -1,0 +1,30 @@
+/* margin collapse tac dong theo chieu doc */
+.box {
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+.box1 {
+  margin-bottom: 50px;
+}
+.box2 {
+  margin-top: 70px;
+}
+
+/* margin collapse khong tac dong theo chieu ngang */
+/* .item {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: yellow;
+}
+
+.item1 {
+  -ms-grid-column: 20px;
+}
+.item2 {
+  margin-left: 50px;
+} */

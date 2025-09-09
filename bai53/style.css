@@ -1,0 +1,17 @@
+/* body {
+  background-color: brown;
+}
+.box {
+  background-color: blue;
+  width: 60%;
+}
+.box_child {
+  background-color: red;
+  width: 80%;
+} */
+.parent {
+  font-size: 60px;
+}
+.line1 {
+  font-size: 40%;
+}
