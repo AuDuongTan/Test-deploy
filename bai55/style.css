@@ -1,0 +1,20 @@
+/* .child {
+  font-size: 10px;
+  height: 10em;
+  width: 10em;
+  background-color: pink;
+}
+
+.parent {
+  font-size: 20px;
+  font-size: 2em;
+} */
+.parent {
+  font-size: 10px;
+}
+.child {
+  font-size: 2em;
+  height: 2em;
+  width: 2em;
+  background-color: pink;
+}
