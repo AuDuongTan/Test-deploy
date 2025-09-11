@@ -1,0 +1,12 @@
+p {
+  /* letter-spacing: 20px; */
+  /* word-spacing: 20px; */
+  /* text-align: center; */
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
